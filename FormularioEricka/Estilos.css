@@ -1,0 +1,14 @@
+* {
+    font-family: Cambria, Times, serif;
+    color: blue;
+    background-color: #f3f3ef15;
+    font-size: 14px;
+}
+
+h1 {
+    font-family: Cambria, Times, serif;
+    text-transform: uppercase;
+    text-align: center;
+    font-size: 24px;
+    letter-spacing: 0.5em;
+}
